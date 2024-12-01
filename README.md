@@ -23,8 +23,7 @@ I'm xm, a passionate software developer with a focus on web and mobile applicati
 
 ### Connect with Me
 
-[![Twitter Badge](https://img.shields.io/badge/-@yourtwitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)
-[![LinkedIn Badge](https://img.shields.io/badge/-yourlinkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin)
+[![Twitter Badge](https://img.shields.io/badge/-@yourtwitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/def_hdu)
 
 ### GitHub Stats
 
