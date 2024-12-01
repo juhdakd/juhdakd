@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [Your Name], a passionate software developer with a focus on web and mobile applications. I love to code and create things that live on the internet.
+I'm xm, a passionate software developer with a focus on web and mobile applications. I love to code and create things that live on the internet.
 
 ### What I'm up to
 
@@ -9,7 +9,7 @@ I'm [Your Name], a passionate software developer with a focus on web and mobile 
 - 👯 Looking for collaborators on open-source projects.
 - 🤔 Seeking help with understanding advanced algorithms.
 - 💬 Ask me about anything, I'm happy to help!
-- 📫 How to reach me: email@example.com
+- 📫 How to reach me: hhmwo@foxmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a pet parrot who knows how to say "Hello World"!
 
@@ -19,9 +19,7 @@ I'm [Your Name], a passionate software developer with a focus on web and mobile 
 
 ### My Projects
 
-- [Project 1](#): A brief description of the project.
-- [Project 2](#): Another project you're proud of.
-- [Project 3](#): And yet another one.
+- [LLM_test](#): leetcode and LLM 
 
 ### Connect with Me
 
