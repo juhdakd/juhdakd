@@ -41,9 +41,3 @@ I'm xm, a passionate software developer with a focus on web and mobile applicati
 </div>
 
 <br/>  
-
-
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhdakd)](https://github.com/Christmas/github-readme-stats)
-
-
